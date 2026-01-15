@@ -1,1 +1,1 @@
-A repo for rust crates usage testing
+A repo for rust crates usage test
