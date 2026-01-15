@@ -1,0 +1,13 @@
+#[workspace]
+
+members=[]
+
+[workspace]
+members = ["clap-test"]
+
+[workspace.package]
+version = "0.0.1"
+
+
+[workspace.dependencies]
+

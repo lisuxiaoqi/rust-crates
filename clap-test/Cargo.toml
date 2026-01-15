@@ -1,0 +1,7 @@
+[package]
+name = "clap-test"
+edition = "2024"
+version.workspace = true
+
+[dependencies]
+clap = { version = "4.5.54", features = ["derive"] }
