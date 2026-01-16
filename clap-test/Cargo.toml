@@ -2,6 +2,7 @@
 name = "clap-test"
 edition = "2024"
 version.workspace = true
+description="description from cargo package"
 
-[dependencies]
+[dev-dependencies]
 clap = { version = "4.5.54", features = ["derive"] }
