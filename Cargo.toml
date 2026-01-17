@@ -1,6 +1,6 @@
 [workspace]
 resolver = "3"
-members = ["clap-test"]
+members = ["clap-test", "error-test"]
 
 
 [workspace.package]

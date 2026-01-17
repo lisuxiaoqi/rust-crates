@@ -1,0 +1,8 @@
+[package]
+name = "error-test"
+edition = "2024"
+version.workspace = true
+
+[dependencies]
+anyhow = "1.0.100"
+thiserror = "2.0.17"
