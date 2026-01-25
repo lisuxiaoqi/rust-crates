@@ -1,0 +1,7 @@
+[package]
+name = "ttcall-test"
+edition = "2024"
+version.workspace = true
+
+[dependencies]
+tt-call = "1.0.9"

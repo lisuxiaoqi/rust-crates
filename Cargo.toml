@@ -1,6 +1,6 @@
 [workspace]
 resolver = "3"
-members = ["clap-test", "error-test"]
+members = ["clap-test", "error-test", "ttcall-test"]
 
 
 [workspace.package]
